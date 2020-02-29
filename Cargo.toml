@@ -6,6 +6,6 @@ license = "GPL-3.0-or-later"
 edition = "2018"
 repository = "https://github.com/Protryon/rpool"
 description = "Lock-free generic resource pool implementation."
-keywords = [ "primitive", "enum" ]
+keywords = [ "lockfree", "atomic", "resource", "pool" ]
 
 [dependencies]
